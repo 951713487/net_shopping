@@ -5,7 +5,9 @@ import Login from '../components/Login.vue'
 
 Vue.use(VueRouter)
 
-
+const routes = [
+    
+]
 
 const router = new VueRouter({
   routes:[
@@ -14,5 +16,4 @@ const router = new VueRouter({
   ]
 })
 
-export default router
 

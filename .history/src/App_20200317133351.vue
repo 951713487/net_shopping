@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-  <router-view></router-view>
+  根组件
   </div>
 </template>
 
@@ -14,9 +14,5 @@ export default {
 </script>
 
 <style>
-#app {
-  padding: 0px;
-  
-}
 
 </style>
